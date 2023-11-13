@@ -107,7 +107,7 @@ char *get_next_line(int fd)
             return NULL;
 }
 
-int main()
+/*int main()
 {
     int fd;
     char *line;
@@ -127,3 +127,4 @@ int main()
     close(fd);
     return 0;
 }
+*/
